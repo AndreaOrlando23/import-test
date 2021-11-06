@@ -5,7 +5,7 @@ def main():
     test_module1 = Module1()
     print(test_module1)
     
-    test_module2 = test_module1.print_from_module2()
+    test_module2 = test_module1.response_from_module2()
     print(test_module2)
 
 

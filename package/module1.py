@@ -1,4 +1,4 @@
-from module2 import Module2
+from package.module2 import Module2
 
 
 class Module1:
